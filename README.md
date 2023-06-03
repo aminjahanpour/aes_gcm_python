@@ -9,7 +9,7 @@ It follows the classic prosses of AES.
 It is great for learning.
 
 #### Efficient implementation
-This implementaiton is based on the work of [this paper](fast_aes.pdf).
+This implementation is based on the work of [this paper](fast_aes.pdf).
 It uses bit-slicing techniques to increase the throughput of the cipher.
 
 The AES here works in GCM operating mode.
